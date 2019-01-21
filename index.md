@@ -1,10 +1,9 @@
 # Matemáticas Discretas
 
-## Temas curso
+Contenidos
 
 
-## Bibliografia
+[Bibliografia](bibliografia.html)
 
 
-## Organización
 [Evaluación](evaluacion.html)

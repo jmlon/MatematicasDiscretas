@@ -7,4 +7,4 @@
 
 
 ## Organización
-[Evaluación](https://github.com/jmlon/MatematicasDiscretas/evaluacion.html/)
+[Evaluación](evaluacion.html)

@@ -21,6 +21,8 @@
 - [Logic Theory —Basic Notation](https://towardsdatascience.com/logic-theory-basic-notation-d8cf44cb297b)
 - [Logic Theory — Truth Tables](https://towardsdatascience.com/logic-theory-truth-tables-de313f78a16a)
 - [Logic Theory — Equivalency](https://towardsdatascience.com/logic-theory-equivalency-f5251af2b549)
+- Video: [Boolean Logic & Logic Gates](https://youtu.be/gI-qXk7XojA)
+
 
 <BR>
 <HR>

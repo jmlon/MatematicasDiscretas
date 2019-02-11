@@ -12,7 +12,9 @@
 
 
 ## Talleres prácticos
-<!--1. [Circuitos digitales](practicas/Taller1-Logisim-201910.pdf)-->
+
+1. [Circuitos digitales](practicas/Taller1-Logisim-201910.pdf)
+
   
 
 [Bibliografia](bibliografia.html)

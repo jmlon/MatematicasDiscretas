@@ -14,6 +14,7 @@
 ## Talleres prácticos
 
 1. [Circuitos digitales](practicas/Taller1-Logisim-201910.pdf)
+2. [Circuitos digitales](practicas/Taller2-Logisim-201920.pdf)
 
   
 

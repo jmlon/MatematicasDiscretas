@@ -10,8 +10,8 @@
 
 ## Ejercicios
 
-[Ejercicios de repaso 1](01-Ejercicios-CalculoProposiciones.pdf)  
-
+[Ejercicios de repaso - Quiz 1](01-Ejercicios-CalculoProposiciones.pdf)
+[Ejercicios de repaso - Quiz 2](02-Ejercicios-Proposiciones.pdf)
 
 ## Material complementario
 

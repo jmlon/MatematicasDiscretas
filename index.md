@@ -16,6 +16,13 @@
 1. [Circuitos digitales](practicas/Taller1-Logisim-201910.pdf)
 2. [Circuitos digitales](practicas/Taller2-Logisim-201920.pdf)
 
+## Fechas importantes
+
+- Quiz 1: Feb 6
+- Quiz 2: Feb 27
+- Quiz 3: Mar 20
+- Quiz 4: Abr 10
+- Quiz 5: May 8
   
 
 [Bibliografia](bibliografia.html)

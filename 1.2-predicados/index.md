@@ -13,7 +13,8 @@
 
 ## Material complementario
 
-
+- Video: [First Order Logic, Francisco Iacobelli](https://www.youtube.com/watch?v=73AUBVOW-sM)  
+- Libro CC: [forall X: An Introduction to Formal Logic. P.D. Magnus](https://www.fecundity.com/logic/)  
 
 <BR>
 <HR>

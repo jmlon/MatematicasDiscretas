@@ -8,6 +8,7 @@
 
 ## Ejercicios
 
+[Ejercicios de repaso - Quiz 3](03-Ejercicios-201820-Derivaciones-Predicados.pdf)  
 
 
 ## Material complementario

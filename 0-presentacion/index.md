@@ -2,7 +2,7 @@
 
 ## Slides
 
-- [Presentación del curso](slides/01.1-Presentacion.pdf)  
+- [Presentación del curso](../slides/01.1-Presentacion.pdf)  
 
 ## Recursos adicionales
 

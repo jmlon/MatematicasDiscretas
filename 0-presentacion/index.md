@@ -2,6 +2,8 @@
 
 ## Slides
 
+- [Presentación del curso](slides/01.1-Presentacion.pdf)  
+
 ## Recursos adicionales
 
 - Video: Qué son las matemáticas discretas? Cuales son sus aplicaciones?  

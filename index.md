@@ -2,7 +2,7 @@
 
 ## Contenidos  
 
-0. [Presentación del curso](slides/01.1-Presentacion.pdf)  
+0. [Presentación del curso](0-presentacion/index.html)  
 1. Lógica  
   - [Calculo proposicional](1.1-proposiciones/index.html)  
   - [Cálculo de predicados](1.2-predicados/index.html)  

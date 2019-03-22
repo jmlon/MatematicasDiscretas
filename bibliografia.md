@@ -10,6 +10,9 @@ E. Lehman, F. Thomson, A. Meyer.
 [**Discrete Mathematics** - An open introduction](http://discrete.openmathbooks.org/home.php)  
 Oscar Levin  
 
+[**forall X**: An Introduction to Formal Logic](https://www.fecundity.com/logic/)  
+P.D. Magnus  
+
 
 [Home](index.html)
 

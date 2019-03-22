@@ -16,7 +16,7 @@
 1. [Circuitos digitales 1](practicas/Taller1-Logisim-201910.pdf)  
 2. [Circuitos digitales 2](practicas/Taller2-Logisim-201920.pdf)  
 3. [Prolog 1 - Hechos](practicas/Taller3-Prolog-201910.pdf)  
-3. [Prolog 1 - Reglas](practicas/Taller4-Prolog-201910.pdf)  
+<!--4. [Prolog 1 - Reglas](practicas/Taller4-Prolog-201910.pdf)  -->
 
 
 ## Fechas importantes

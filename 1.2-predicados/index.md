@@ -16,6 +16,8 @@
 - Video: [First Order Logic, Francisco Iacobelli](https://www.youtube.com/watch?v=73AUBVOW-sM)  
 - Libro CC: [forall X: An Introduction to Formal Logic. P.D. Magnus](https://www.fecundity.com/logic/)  
 
+- La paradoja de Russell: [Russell's Paradox - A Ripple in the Foundations of Mathematics](https://www.youtube.com/watch?v=xauCQpnbNAM)  
+
 <BR>
 <HR>
 [Home](../index.html)

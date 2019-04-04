@@ -23,6 +23,7 @@
 - La paradoja de Russell: [Russell's Paradox - A Ripple in the Foundations of Mathematics](https://www.youtube.com/watch?v=xauCQpnbNAM)  
 - [Math's Existential Crisis (Gödel's Incompleteness Theorems)](https://www.youtube.com/watch?v=YrKLy4VN-7k)  
 - [Impossible Programs (The Halting Problem)](https://www.youtube.com/watch?v=wGLQiHXHWNk)  
+- [Proof That Computers Can't Do Everything (The Halting Problem)](https://www.youtube.com/watch?v=92WHN-pAFCs)  
 - [Gödel's First Incompleteness Theorem, Proof Sketch](https://www.youtube.com/watch?v=svOTZEbj3ys&t=15s)  
 
 <BR>

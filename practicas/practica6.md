@@ -14,5 +14,4 @@ Con motivo del dia de la virtualidad, está actividad práctica se realizará de
 
 4. Participar el la video-conferencia Zoom para preguntas y discusión.
 
-Zoom Meeting (lunes 22/Abril de 2:30 a 3:10)
-https://zoom.us/j/616093355
+[Zoom Meeting](https://zoom.us/j/616093355) (lunes 22/Abril de 2:30 a 3:10)

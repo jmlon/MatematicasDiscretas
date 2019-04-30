@@ -2,10 +2,10 @@
 
 ## Slides
 
-- [Inducción y recursividad](slides/03.1-InduccionyRecursividad.pdf)  
+- [Inducción y recursividad](../slides/03.1-InduccionyRecursividad.pdf)  
 
 <!--
-- [](slides/03.2-Recursividad.pdf)  
+- [Definiciones recursivas](../slides/03.2-Recursividad.pdf)  
 -->
 
 

@@ -31,7 +31,7 @@
 - Quiz 5: May 8
   
 
-[Bibliografia](bibliografia.html)
+[Bibliografía](bibliografia.html)
 
 
 [Evaluación](evaluacion.html)

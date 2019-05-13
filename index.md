@@ -20,6 +20,8 @@
 5. [Prolog 3 - Aritmética/IO/Recursividad](practicas/Taller5-Prolog-201910.pdf)  
 6. [Prolog 4 - Recursividad/Iteración](practicas/practica6.html)  
 7. [Prolog 5 - Recursividad/Listas](practicas/Taller7-Prolog-201910.pdf)  
+8. [Prolog 6 - Listas y recursividad](practicas/Taller8-Prolog-201910.pdf)  
+9. Opcional: [Prolog 7 - Conjuntos](practicas/Taller9-Prolog-201910.pdf). Entrega: 20/May  
 
 
 ## Fechas importantes

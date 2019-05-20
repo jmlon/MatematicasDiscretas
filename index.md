@@ -31,7 +31,7 @@
 - Quiz 3: Mar 20
 - Quiz 4: Abr 10
 - Quiz 5: May 8
-- Final: May 29 - (Ejercicios de repaso)[2-induccionRecursividad/06-Ejercicios-201820.pdf]  
+- Final: May 29 - [Ejercicios de repaso](2-induccionRecursividad/06-Ejercicios-201820.pdf)  
   
 
 [Bibliografía](bibliografia.html)

@@ -13,10 +13,11 @@
 4. [Aplicaciones a la programación](4-AplicacionesProgramacion/index.html)
 -->
 
-[//] : # (This is a comment)
+[comment] : # (This is a comment)
 
 ## Talleres prácticos
 
+<!--
 1. [Circuitos digitales 1](practicas/Taller1-Logisim-201910.pdf)  
 2. [Circuitos digitales 2](practicas/Taller2-Logisim-201920.pdf)  
 3. [Prolog 1 - Hechos](practicas/Taller3-Prolog-201910.pdf)  
@@ -26,16 +27,16 @@
 7. [Prolog 5 - Recursividad/Listas](practicas/Taller7-Prolog-201910.pdf)  
 8. [Prolog 6 - Listas y recursividad](practicas/Taller8-Prolog-201910.pdf)  
 9. Opcional: [Prolog 7 - Conjuntos](practicas/Taller9-Prolog-201910.pdf). Entrega: 20/May  
-
+-->
 
 ## Fechas importantes
 
-- Quiz 1: Feb 6
-- Quiz 2: Feb 27
-- Quiz 3: Mar 20
-- Quiz 4: Abr 10
-- Quiz 5: May 8
-- Final: May 29 2pm, Bloque 12 - 206 - [Ejercicios de repaso](2-induccionRecursividad/06-Ejercicios-201820.pdf)  
+- Quiz 1: Jul 31
+- Quiz 2: Ago 21
+- Quiz 3: Sep 11
+- Quiz 4: Oct 2
+- Quiz 5: Oct 23
+- Final:   
   
 
 [Bibliografía](bibliografia.html)

@@ -13,9 +13,8 @@
 4. [Aplicaciones a la programación](4-AplicacionesProgramacion/index.html)
 -->
 
-[comment] : # (This is a comment)
 
-## Talleres prácticos
+## Talleres prácticos  
 
 <!--
 1. [Circuitos digitales 1](practicas/Taller1-Logisim-201910.pdf)  

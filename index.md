@@ -30,11 +30,11 @@
 
 ## Fechas importantes
 
-- Quiz 1: Jul 31
-- Quiz 2: Ago 21
-- Quiz 3: Sep 11
-- Quiz 4: Oct 2
-- Quiz 5: Oct 23
+- Quiz 1: Ago 1
+- Quiz 2: Ago 22
+- Quiz 3: Sep 12
+- Quiz 4: Oct 3
+- Quiz 5: Oct 24
 - Final:   
   
 

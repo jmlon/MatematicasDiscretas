@@ -9,10 +9,13 @@
 <!--
 - [Diseño de circuitos lógicos](../slides/01.4-DisenoLogico.pdf)  
 - [Implicaciones y derivaciones lógicas](../slides/02.1-ImplicacionesyDerivaciones.pdf)  
+-->
 
 ## Ejercicios
 
 [Ejercicios de repaso - Quiz 1](01-Ejercicios-CalculoProposiciones.pdf)  
+
+<!--
 [Ejercicios de repaso - Quiz 2](02-Ejercicios-Proposiciones.pdf)  
 -->
 

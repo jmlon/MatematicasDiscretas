@@ -21,6 +21,9 @@
 - Video: [Binary, Hanoi and Sierpinski, part 1](https://www.youtube.com/watch?v=2SUvWfNJSsM)  
 - PBS Learning media: [Pi & The Fibonacci Sequence](https://www.pbslearningmedia.org/resource/nvmm-math-pifibonacci/pi-the-fibonacci-sequence/)  
 
+- Video: [Why "x to the zero power" equal 1?](https://www.youtube.com/watch?v=yiwAS3R-mG0)  
+- Video: [Zero Factorial - Numberphile](https://www.youtube.com/watch?v=Mfk_L4Nx2ZI)  
+
 <!--
 - [Reverse Polish Notation](http://mathworld.wolfram.com/ReversePolishNotation.html)  
 - [La leyenda del tablero de ajedrez](https://www.youtube.com/watch?v=jB-KGwBWIxg)  

@@ -22,6 +22,7 @@
 4. [Prolog 2 - Reglas](practicas/Taller4-Prolog-201920.pdf)  
 5. [Prolog 3 - Unificación/Traza de ejecución](practicas/Taller5-Prolog-201920.pdf)  
 6. [Prolog 4 - Aritmética/IO](practicas/Taller6-Prolog-201920.pdf)  
+7. [Prolog 5 - Recursividad/Iteración](practicas/Taller7-Prolog-201920.pdf)  
 
 <!--
 6. [Prolog 4 - Recursividad/Iteración](practicas/practica6.html)  

@@ -38,8 +38,8 @@
 - Quiz 3: Sep 12
 - Quiz 4: Oct 3
 - Quiz 5: Oct 24
-- Final:   
-  
+- Final: Nov 6, 2pm  
+
 
 [Bibliografía](bibliografia.html)
 

@@ -9,7 +9,10 @@
 
 ## Ejercicios
 
-- [Ejercicios de repaso 5](05-Ejercicios-201910.pdf)
+- [Ejercicios de repaso 5](05-Ejercicios-201910.pdf)  
+
+- [Ejercicios de repaso final](06-Ejercicios-201920.pdf)  
+
 <!--
 -->
 
@@ -35,4 +38,3 @@
 <HR>
 [Home](../index.html)
 <BR>
-

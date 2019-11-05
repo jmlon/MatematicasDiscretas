@@ -38,7 +38,7 @@
 - Quiz 3: Sep 12
 - Quiz 4: Oct 3
 - Quiz 5: Oct 24
-- Final: Nov 6, 2pm  
+- Final: Nov 6, 2pm. Aula 415 bloque 9.  
 
 
 [Bibliografía](bibliografia.html)

@@ -6,7 +6,7 @@
 1. Lógica  
   - [Calculo proposicional](1.1-proposiciones/index.html)  
 
-  <!--
+<!--  
   - [Cálculo de predicados](1.2-predicados/index.html)  
 2. [Prolog](3-Prolog/index.html)
 3. [Inducción y Recursividad](2-induccionRecursividad/index.html)

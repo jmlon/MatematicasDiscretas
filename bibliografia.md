@@ -4,7 +4,7 @@ Grassman y Tremblay.
 **Estructuras Matemáticas para la Computación**.  
 Kolman, Busby, Ross.
 
-[**Mathematics for Computer Science**.](http://courses.csail.mit.edu/6.042/fall10/mcs-ftl.pdf)  
+[**Mathematics for Computer Science**.](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_notes.pdf)  
 E. Lehman, F. Thomson, A. Meyer.  
 
 [**Discrete Mathematics** - An open introduction](http://discrete.openmathbooks.org/home.php)  
@@ -15,5 +15,3 @@ P.D. Magnus
 
 
 [Home](index.html)
-
-

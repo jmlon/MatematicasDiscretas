@@ -30,7 +30,9 @@
 
 <!--
 - Presentación: [Basics of Digital Logical Design](http://web.cse.ohio-state.edu/~teodorescu.1/download/teaching/cse675.au08/Cse675.02.D.LogicDesign_part1.pdf)  
+- Video: [How Computers Calculate - the ALU](https://www.youtube.com/watch?v=1I5ZMmrOfnA)  
 -->
+
 
 <BR>
 <HR>

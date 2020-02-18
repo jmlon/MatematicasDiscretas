@@ -6,17 +6,17 @@
 - [Conceptos básicos](../slides/01.2-Logica.pdf)  
 - [Expresiones lógicas, álgebra declarativa](../slides/01.3-Logica.pdf)  
 - [Diseño de circuitos lógicos](../slides/01.4-DisenoLogico.pdf)  
+- [Implicaciones y derivaciones lógicas](../slides/02.1-ImplicacionesyDerivaciones.pdf)  
     
 <!--
-- [Implicaciones y derivaciones lógicas](../slides/02.1-ImplicacionesyDerivaciones.pdf)  
 -->
 
 ## Ejercicios
 
 [Ejercicios de repaso - Quiz 1](01-Ejercicios-CalculoProposiciones.pdf)  
+[Ejercicios de repaso - Quiz 2](02-Ejercicios-Proposiciones.pdf)  
 
 <!--
-[Ejercicios de repaso - Quiz 2](02-Ejercicios-Proposiciones.pdf)  
 -->
 
 ## Material complementario
@@ -27,12 +27,10 @@
 - [Logic Theory — Equivalency](https://towardsdatascience.com/logic-theory-equivalency-f5251af2b549)  
 - Video: [Boolean Logic & Logic Gates](https://youtu.be/gI-qXk7XojA)  
 - Video: [Representing Numbers and Letters with Binary](https://www.youtube.com/watch?v=1GSjbWt0c9M)  
-
-<!--
-
 - Presentación: [Basics of Digital Logical Design](http://web.cse.ohio-state.edu/~teodorescu.1/download/teaching/cse675.au08/Cse675.02.D.LogicDesign_part1.pdf)  
 - Video: [How Computers Calculate - the ALU](https://www.youtube.com/watch?v=1I5ZMmrOfnA)  
 
+<!--
 -->
 
 

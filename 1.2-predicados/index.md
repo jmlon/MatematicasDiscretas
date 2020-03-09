@@ -12,10 +12,10 @@
 
 ## Ejercicios
 
-<!--
 [Ejercicios de repaso - Quiz 3](03-Ejercicios-201820-Derivaciones-Predicados.pdf)  
-[Ejercicios de repaso - Quiz 4](04-Ejercicios-201910.pdf)  
 
+<!--
+[Ejercicios de repaso - Quiz 4](04-Ejercicios-201910.pdf)  
 -->
 
 ## Material complementario

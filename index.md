@@ -19,9 +19,9 @@
 1. [Circuitos digitales 1](practicas/Taller1-Logisim-202010.pdf)  
 2. [Circuitos digitales 2](practicas/Taller2-Logisim-202010.pdf)  
 3. [Prolog - Hechos](practicas/Taller3-Prolog-202010.pdf)  
+4. [Prolog - Reglas](practicas/Taller4-Prolog-202010.pdf)  
 
 <!--
-4. [Prolog - Reglas](practicas/Taller4-Prolog-202010.pdf)  
 5. [Prolog 3 - Unificación/Traza de ejecución](practicas/Taller5-Prolog-201920.pdf)  
 6. [Prolog 4 - Aritmética/IO](practicas/Taller6-Prolog-201920.pdf)  
 7. [Prolog 5 - Recursividad/Iteración](practicas/Taller7-Prolog-201920.pdf)  

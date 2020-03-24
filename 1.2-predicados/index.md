@@ -3,7 +3,7 @@
 ## Slides
 
 - [Conceptos del cálculo de predicados](../slides/02.2-CalculoDePredicados.pdf)
-- [Derivaciones lógicas en el cálculo de predicados](../slides/02.3-Derivaciones.pdf)
+- [Derivaciones lógicas en el cálculo de predicados](../slides/02.3-Derivaciones.pdf) y [ejemplos de clase](../slides/02.3-Derivaciones-Ejemplos.pdf)  
 
 <!--
 - [Curiosidades matemáticas](../slides/02.5-EcuacionesDiofantinas.pdf)

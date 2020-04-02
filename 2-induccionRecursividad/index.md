@@ -3,6 +3,7 @@
 ## Slides
 
 - [Inducción y recursividad](../slides/03.1-InduccionyRecursividad.pdf)  
+
 <!--
 - [Definiciones recursivas](../slides/03.2-Recursividad.pdf)  
 -->

@@ -22,6 +22,7 @@
 4. [Prolog - Reglas](practicas/Taller4-Prolog-202010.pdf)  
 5. [Prolog - Unificación/Aritmética/IO](practicas/Taller5-Prolog-202010.pdf)  
 6. [Cálculo de predicados](practicas/Taller6-CalculoDePredicados-202010.pdf)  
+7. [Recursividad en programación](practicas/Taller7-Prolog-202010.pdf)  
 
 <!--
 6. [Prolog 4 - Aritmética/IO](practicas/Taller6-Prolog-201920.pdf)  

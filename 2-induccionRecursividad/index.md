@@ -3,15 +3,16 @@
 ## Slides
 
 - [Inducción y recursividad](../slides/03.1-InduccionyRecursividad.pdf)  
+- [Definiciones recursivas](../slides/03.2-Recursividad.pdf)  
 
 <!--
-- [Definiciones recursivas](../slides/03.2-Recursividad.pdf)  
 -->
 
 ## Ejercicios
 
-<!--
 - [Ejercicios de repaso 5](05-Ejercicios-201910.pdf)  
+
+<!--
 - [Ejercicios de repaso final](06-Ejercicios-201920.pdf)  
 -->
 

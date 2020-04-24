@@ -27,10 +27,11 @@
 - Video: [Why "x to the zero power" equal 1?](https://www.youtube.com/watch?v=yiwAS3R-mG0)  
 - Video: [Zero Factorial - Numberphile](https://www.youtube.com/watch?v=Mfk_L4Nx2ZI)  
 
-<!--
-- [Reverse Polish Notation](http://mathworld.wolfram.com/ReversePolishNotation.html)  
 - [La leyenda del tablero de ajedrez](https://www.youtube.com/watch?v=jB-KGwBWIxg)  
 - [Las paradojas de Zenón](https://www.youtube.com/watch?v=oy6TH2_czQg)  
+
+<!--
+- [Reverse Polish Notation](http://mathworld.wolfram.com/ReversePolishNotation.html)  
 - Video: [How The Six Degrees Phenomenon Has Changed Science](https://www.youtube.com/watch?v=X0mHf3oSUdU)  
 - [Understanding Cantor’s Mathematical Infinity](https://medium.com/however-mathematics/understanding-cantors-mathematical-infinity-bc9ffe7465da)  
 -->

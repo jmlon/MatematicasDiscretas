@@ -10,7 +10,6 @@
 3. [Inducción y Recursividad](2-induccionRecursividad/index.html)
 
 <!--  
-4. [Aplicaciones a la programación](4-AplicacionesProgramacion/index.html)
 -->
 
 

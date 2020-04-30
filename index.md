@@ -33,7 +33,7 @@
 
 - Quiz 1: Feb 5
 - Quiz 2: Feb 26
-- Final: May 18 - 29  
+- Final: May 15
 
 
 [Bibliografía](bibliografia.html)

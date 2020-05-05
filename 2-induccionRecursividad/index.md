@@ -11,7 +11,7 @@
 
 ## Ejercicios
 
-- [Ejercicios de repaso final](05-Ejercicios-202010.pdf)  
+- [Ejercicios de repaso final](05-Ejercicios-202010.pdf) - [Ejemplos seleccionados](05-Ejercicios-202010-EjemplosResueltos.pdf)  
 
 <!--
 - [Ejercicios de repaso final](06-Ejercicios-201920.pdf)  

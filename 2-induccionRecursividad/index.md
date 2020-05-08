@@ -31,6 +31,8 @@
 - [La leyenda del tablero de ajedrez](https://www.youtube.com/watch?v=jB-KGwBWIxg)  
 - [Las paradojas de Zenón](https://www.youtube.com/watch?v=oy6TH2_czQg)  
 
+- Paradojas con el infinito: [The Banach–Tarski Paradox - Vsause](https://www.youtube.com/watch?v=s86-Z-CbaHA)  
+
 <!--
 - [Reverse Polish Notation](http://mathworld.wolfram.com/ReversePolishNotation.html)  
 - Video: [How The Six Degrees Phenomenon Has Changed Science](https://www.youtube.com/watch?v=X0mHf3oSUdU)  

@@ -13,5 +13,9 @@ Oscar Levin
 [**forall X**: An Introduction to Formal Logic](https://www.fecundity.com/logic/)  
 P.D. Magnus  
 
+[**Fundamentals of Discrete Math for Computer Science**](https://www.springer.com/gp/book/9783319701509)  
+Tom Jenkyns and Ben Stephenson
+
+
 
 [Home](index.html)

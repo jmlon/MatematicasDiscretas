@@ -34,7 +34,7 @@
 - [Proof That Computers Can't Do Everything (The Halting Problem)](https://www.youtube.com/watch?v=92WHN-pAFCs)  
 - [Gödel's First Incompleteness Theorem, Proof Sketch](https://www.youtube.com/watch?v=svOTZEbj3ys&t=15s)  
 - [How Gödel’s Proof Works](https://www.quantamagazine.org/how-godels-incompleteness-theorems-work-20200714/)  
-
+- [How Close Are Computers to Automating Mathematical Reasoning?](https://www.quantamagazine.org/how-close-are-computers-to-automating-mathematical-reasoning-20200827/)  
 -->
 
 <BR>

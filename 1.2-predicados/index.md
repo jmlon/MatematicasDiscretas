@@ -23,6 +23,8 @@
 - Video: [First Order Logic, Francisco Iacobelli](https://www.youtube.com/watch?v=73AUBVOW-sM)  
 - Libro CC: [forall X: An Introduction to Formal Logic. P.D. Magnus](https://www.fecundity.com/logic/)  
 
+- [Open Textbooks: First-Order Logic](http://www.opentextbooks.org.hk/ditatopic/9593)  
+
 <!--
 
 ## Explorando más alla

@@ -32,6 +32,9 @@
 
 - [The Surprising Story of the First Microprocessors](https://spectrum.ieee.org/tech-history/silicon-revolution/the-surprising-story-of-the-first-microprocessors)  
 
+- [Open Textbooks: Propositional logic](http://www.opentextbooks.org.hk/ditatopic/9522)  
+
+
 <!--
 -->
 

@@ -34,6 +34,8 @@
 
 - [Open Textbooks: Propositional logic](http://www.opentextbooks.org.hk/ditatopic/9522)  
 
+- Video: [REFUTO los 6 TRUCOS que prueban que 1=0 con ANIMACIONES.](https://youtu.be/UmiTJHoFe3I)  
+- Video: [31 logical fallacies in 8 minutes](https://youtu.be/Qf03U04rqGQ)  
 
 <!--
 -->

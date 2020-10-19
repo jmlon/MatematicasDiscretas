@@ -33,6 +33,8 @@
 
 - Paradojas con el infinito: [The Banach–Tarski Paradox - Vsause](https://www.youtube.com/watch?v=s86-Z-CbaHA)  
 
+- Video: [1 and Prime Numbers - Numberphile](https://youtu.be/IQofiPqhJ_s)
+
 <!--
 - [Reverse Polish Notation](http://mathworld.wolfram.com/ReversePolishNotation.html)  
 - Video: [How The Six Degrees Phenomenon Has Changed Science](https://www.youtube.com/watch?v=X0mHf3oSUdU)  
